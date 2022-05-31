@@ -1,0 +1,35 @@
+body {
+	background-color: silver;
+}
+header {
+	background-color: navajowhite;
+	padding: 10px;
+}
+.footer-columns {
+	display: flex;
+}
+.footer-column {
+	flex: 50%;
+	margin: 20px;
+}
+main {
+	padding: 10px;
+	background-color: silver;
+}
+.post {
+	background-color: gray;
+	padding: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	display: flex;
+	color: white;
+}
+.post img {
+	margin: 30px;
+}
+.post1 {
+	display: flex;
+}
+.post2 {
+	font-size: 35px;
+}
